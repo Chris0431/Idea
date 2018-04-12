@@ -1,4 +1,3 @@
 # Idea
-First Repository
 
 Changed
